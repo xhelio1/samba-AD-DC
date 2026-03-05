@@ -277,7 +277,7 @@ Digite senha do Administrator
 E logo em seguida vai mostrar algo como : 
 
 ```bash
-Password for [HELIO\Administrator]:
+Password for [XHELIONET\Administrator]:
 
         Sharename       Type      Comment
         ---------       ----      -------
