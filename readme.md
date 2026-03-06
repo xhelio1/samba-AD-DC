@@ -9,7 +9,7 @@ Este projeto guia você através da implementação completa de uma infraestrutu
 ## Neste guia, você vai aprender:
 
 
-* **Configuração de Base do Debian 13:** Ajuste de hostname, IP estático e repositórios para um servidor.
+* **Configuração Base do Debian 13:** Ajuste de hostname, IP estático e repositórios para um servidor.
 * **Instalação e Provisionamento do Samba4:** Como transformar o Debian em um Active Directory Domain Controller (AD DC).
 * **Gestão de DNS e Kerberos:** Configuração essencial para que o domínio seja localizado e a autenticação funcione corretamente.
 * **Ingresso de Clientes Linux:** ingressar clientes linux mint e debian com winbind e também configurar o login atráves da interface grafica
@@ -25,4 +25,4 @@ Clique nos links abaixo para acessar cada etapa do projeto:
     * Preparação do Debian 13 e instalação de pacotes.
 
 *  **[Configuração do Servidor Samba AD DC - Compilado](./servidor-sambaComp.md)**
-    * Preparação do Debian 13 e instalação de pacotes
+    * Preparação do Debian 13 e compilação dos pacotes

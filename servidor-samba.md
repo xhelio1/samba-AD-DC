@@ -284,6 +284,9 @@ Password for [XHELIONET\Administrator]:
 SMB1 disabled -- no workgroup available
 ```
 
+***IMPORTANTE:*** Em ambientes com Samba AD reais é necessário que o relógio do servidor e dos clientes esteja sincronizado. 
+Neste guia não abordarei essa configuração, pois é simples e existem diversos tutoriais disponíveis na internet.
+
 
 
 
