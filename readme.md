@@ -25,4 +25,4 @@ Clique nos links abaixo para acessar cada etapa do projeto:
     * Preparação do Debian 13 e instalação de pacotes.
 
 *  **[Configuração do Servidor Samba AD DC - Compilado](./servidor-sambaComp.md)**
-    * Preparação do Debian 13 e compilação dos pacotes
+    * Preparação do Debian 13 e compilação dos pacotes.
