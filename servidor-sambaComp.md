@@ -372,7 +372,10 @@ systemctl status samba-ad-dc
 
 #### Configurando o Kerberos
 
+```bash
 cp /opt/samba/private/krb5.conf /etc/krb5.conf
+```
+
 
 #### Validando resolvedor de nomes pelo dc02:
 
@@ -582,23 +585,23 @@ Valid starting       Expires              Service principal
         renew until 14/05/2026 15:35:55
 ```
 
-#### Consultando as bases do kerberos e ldap:
+#### Consultando os registros SRV do Kerberos e LDAP:
 
 ```bash
 host -t srv _kerberos._tcp.empresa.com
 ```
 
-Vai mostar algo como :
+Deve mostrar algo semelhante a:
 
-```
-_kerberos._tcp.officinas.edu has SRV record 0 100 88 pdc01.officinas.edu.
+```bash
+_kerberos._tcp.empresa.com has SRV record 0 100 88 dc02.empresa.com.
 ```
 
 ```bash
 host -t srv _ldap._tcp.empresa.com
 ```
 
-Vai mostar algo como :
+Deve mostrar algo semelhante a:
 
 ```bash
 _ldap._tcp.empresa.com has SRV record 0 100 389 dc02.empresa.com.
