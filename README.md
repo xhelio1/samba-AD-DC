@@ -21,7 +21,7 @@ Este projeto guia você através da implementação completa de uma infraestrutu
 
 Clique nos links abaixo para acessar cada etapa do projeto:
 
-*1.1*  **[Configuração do Servidor Samba AD DC -Binario](./servidor-samba-Binario.md.md)**
+*1.1*  **[Configuração do Servidor Samba AD DC -Binario](./servidor-samba-Binario.md)**
     * Preparação do Debian 13 e instalação de pacotes.
 
 *1.2*  **[Configuração do Servidor Samba AD DC - Compilado](./servidor-sambaCompilado.md)**
