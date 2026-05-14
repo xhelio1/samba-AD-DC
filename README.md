@@ -30,7 +30,7 @@ Clique nos links abaixo para acessar cada etapa do projeto:
 *2*  **[Configuração para Ingressar Debian 13 no AD ](./ingressar-cliente-debian.md)**
     * Configuração para ingressar no AD
 
-*3*  **[Servidor de Arquivos (File Server) ](./ingressar-cliente-debian.md)**
+*3*  **[Servidor de Arquivos (File Server) ](./file-server.md)**
     * Compartilhamento de arquivos em rede
 
 
