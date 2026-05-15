@@ -128,7 +128,7 @@ Altere para :
 
 ```bash
 127.0.0.1       localhost
-192.168.1.131   dc02.empresa.com  dc01
+192.168.1.131   dc02.empresa.com  dc02
 ```
 
 ***4-*** Configurando o resolv.conf

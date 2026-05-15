@@ -24,7 +24,7 @@ Clique nos links abaixo para acessar cada etapa do projeto:
 *1.1*  **[Configuração do Servidor Samba AD DC -Binario](./servidor-samba-Binario.md)**
     * Preparação do Debian 13 e instalação de pacotes.
 
-*1.2*  **[Configuração do Servidor Samba AD DC - Compilado](./servidor-sambaCompilado.md)**
+*1.2*  **[Configuração do Servidor Samba AD DC - Compilado](./servidor-samba-Compilado.md)**
     * Preparação do Debian 13 e compilação dos pacotes.
 
 *2*  **[Configuração para Ingressar Debian 13 no AD ](./ingressar-cliente-debian.md)**
