@@ -97,8 +97,8 @@ E configure da seguinte forma:
    idmap config * : backend = tdb
    idmap config * : range = 10000-19999
 
-   idmap config XHELIO : backend = rid
-   idmap config XHELIO : range = 20000-999999
+   idmap config XHELIONET : backend = rid
+   idmap config XHELIONET : range = 20000-999999
 
    template shell = /bin/bash
    template homedir = /home/%U
