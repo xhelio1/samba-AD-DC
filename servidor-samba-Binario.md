@@ -265,7 +265,7 @@ Se tudo der certo vai aparecer assim :
 
 ```text
 root@dc01:~# kinit administrator
-Password for administrator@HELIO.NET:
+Password for administrator@XHELIONET.COM:
 Warning: Your password will expire in 41 days on dom 12 abr 2026 11:50:46
 root@dc01:~#
 ```
